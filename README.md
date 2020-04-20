@@ -65,12 +65,10 @@ a.clone很慢，会断掉
 a）classnotfoundexception  
 因为spark源码中很多依赖都是provide级别，刚刚开始我入侵源码，修改scope标签，比较笨，很费时间，  
 后来发现有个按钮，如下：  
-![Alt text](https://github.com/mabin001/Spark-Nodes/pictures/1587376029.jpg)
-![avator](/pictures/1587376029.jpg)
+![avator](pictures/1587376029.jpg)
 
 ###再次运行，成功！
-![Alt text](https://github.com/mabin001/Spark-Nodes/pictures/success.jpg)
-![avator](/pictures/success.jpg)
+![success](pictures/success.jpg)
 
 
 
